@@ -31,6 +31,7 @@
 #include <boost/lexical_cast.hpp>
 
 #include <tf/tf.h>
+#include <tf/transform_broadcaster.h>
 #include <Eigen/Core>
 #include <ar_track_alvar/filter/kinect_filtering.h>
 #include <ar_track_alvar/filter/medianFilter.h>
